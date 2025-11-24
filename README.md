@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 <img width="1834" height="938" alt="Make your README" src="https://github.com/user-attachments/assets/5bba10ca-51ef-4ea0-8b07-72a8ee3a6185" />
 
 
