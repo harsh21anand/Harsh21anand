@@ -155,7 +155,7 @@
 <div align="center">
 ### 🎉 Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=harsh21anand&color=blueviolet)
+
  
 ![Visitor Count](https://komarev.com/ghpvc/?username=harsh21anand&color=blueviolet&style=flat-square)
 
