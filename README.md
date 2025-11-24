@@ -1,9 +1,9 @@
 ## Hi there 👋
-![Banner](https://your-image-l<img width="1834" height="938" alt="Make your README" src="https://github.com/user-attachments/assets/5bba10ca-51ef-4ea0-8b07-72a8ee3a6185" />
+<img width="1834" height="938" alt="Make your README" src="https://github.com/user-attachments/assets/5bba10ca-51ef-4ea0-8b07-72a8ee3a6185" />
 ink.com/banner.png)
 
 
-**harsh21anand/Harsh21anand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**harsh21anand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
