@@ -116,7 +116,7 @@
   
   </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=harsh21anand&color=blueviolet)
+
 
             
 
@@ -154,6 +154,9 @@
 
 <div align="center">
 ### 🎉 Thanks for visiting my profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=harsh21anand&color=blueviolet)
+ 
 ![Visitor Count](https://komarev.com/ghpvc/?username=harsh21anand&color=blueviolet&style=flat-square)
 
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
