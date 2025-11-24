@@ -4,7 +4,7 @@
 
 
 
--## 👨‍💻 About Me
+ ## 🚀 About Me
 - 🔭 I’m currently working on **Full-Stack Projects**
 - 🌱 I’m learning **React, Node.js, MongoDB, TypeScript**
 - 👯 I’m looking to collaborate on **Web Development / App Development**
